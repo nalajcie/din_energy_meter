@@ -1,0 +1,13 @@
+# KiCad backups
+din_energy_meter-backups
+ProjectLib.bak
+
+# generated dynamically by kikit from the master PCB design
+metering_board.kicad_pcb
+metering_board.kicad_prl
+metering_board.kicad_pro
+
+
+power_board.kicad_pcb
+power_board.kicad_prl
+power_board.kicad_pro
